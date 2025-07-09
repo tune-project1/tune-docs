@@ -1,0 +1,1 @@
+/* empty css                        */import{_ as s}from"./_plugin-vue_export-helper.DlAUqK2U.js";import{c as o,t as e,o as c}from"./runtime-core.esm-bundler.DP4VN2E1.js";const r={props:{subtitle:{}}},n={class:"c-subtitle"};function a(i,p,t,_,l,m){return c(),o("span",n,e(t.subtitle),1)}const d=s(r,[["render",a]]);export{d as S};
